@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>CMG86</sys_created_by>
+        <sys_created_on>2018-01-05 12:25:30</sys_created_on>
+        <sys_id>d23a5b54db23030067a3dc50cf96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_65615_sdtest1_cg_test.x_65615_sdtest1.user</sys_name>
+        <sys_package display_value="SDTest1" source="x_65615_sdtest1">763c071c0f2f0300c23945ace1050ee5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDTest1">763c071c0f2f0300c23945ace1050ee5</sys_scope>
+        <sys_security_acl display_value="x_65615_sdtest1_cg_test">9a3a5b54db23030067a3dc50cf961997</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d23a5b54db23030067a3dc50cf96199a</sys_update_name>
+        <sys_updated_by>CMG86</sys_updated_by>
+        <sys_updated_on>2018-01-05 12:25:30</sys_updated_on>
+        <sys_user_role display_value="x_65615_sdtest1.user" name="x_65615_sdtest1.user">833c8fdc0f2f0300c23945ace1050ec8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

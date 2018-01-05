@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="CG_Test" max_length="40" name="x_65615_sdtest1_cg_test" type="collection"/>
+</database>
