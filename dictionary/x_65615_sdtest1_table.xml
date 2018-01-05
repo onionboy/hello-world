@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="task" label="Sdtest1 Table" max_length="40" name="x_65615_sdtest1_table" type="collection"/>
+</database>
