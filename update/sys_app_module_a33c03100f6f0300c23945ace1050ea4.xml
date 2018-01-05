@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="SDTest1.1">073c8fdc0f2f0300c23945ace1050ec5</application>
+        <application display_value="SDTest1-SD">073c8fdc0f2f0300c23945ace1050ec5</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -20,6 +20,8 @@
         <query/>
         <report/>
         <roles>x_65615_sdtest1.user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-05 11:24:26</sys_created_on>
